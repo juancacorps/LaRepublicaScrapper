@@ -1,0 +1,7 @@
+XPATH_LINK_TO_ARTICLE = '//text-fill/a/@href'
+XPATH_TITLE = '//div[@class="mb-auto"]//text-fill//span/text()'
+XPATH_SUMMARY = '//div[@class="lead"]/p/text()'
+XPATH_BODY = '//div[@class="html-content"]/p/text()'
+XPATH_AUTOR = '//div[@class="autorArticle"]/p/text()'
+XPATH_DATEPOST_ARTICLE = '//div[@class="d-flex align-items-end"]/span[@class="date"]/text()'
+XPATH_LINK = 'https://www.larepublica.co/' 
